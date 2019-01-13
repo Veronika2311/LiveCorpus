@@ -1,0 +1,1139 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ﻿ # time_begin = 10:14
+1	﻿	﻿	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+2	#	#	PUNCT	_	_	1	punct	_	_
+3	time_begin	time_begiн-лат	NOUN	_	_	1	nmod	_	_
+4	=	=	SYM	_	_	3	nmod	_	_
+5	10	10	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	14	14	NUM	_	_	5	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = я / довольно много фотографировала / меня вообще увлекала фотография в тот момент / у меня не было професионального / фотоаппарата у меня была только цифровая камера / вот но / тем не менее хм / мне всё ещё почему-то нравятся некоторые свои снимки / не потому что они хорошо сделаны / не потому что у них хорошая композиция / эээм / или я поймала хорошие цвета / но / они / мммм / соотносятся с моими эмоциями [улыбается] / мм и это увеличивает их ценность в моих глазах
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	9	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	довольно	довольно	ADV	_	Degree=Pos	4	advmod	_	_
+4	много	много	ADV	_	Degree=Pos	9	advmod	_	_
+5	фотографировала	фотографировать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	_
+6	/	/	PUNCT	_	_	5	punct	_	_
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	9	obj	_	_
+8	вообще	вообще	ADV	_	Degree=Pos	9	advmod	_	_
+9	увлекала	увлекать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	фотография	фотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	obl	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	13	det	_	_
+13	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
+14	/	/	PUNCT	_	_	18	punct	_	_
+15	у	у	ADP	_	_	16	case	_	_
+16	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	18	obl	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+19	професионального	професиональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+20	/	/	PUNCT	_	_	19	punct	_	_
+21	фотоаппарата	фотоаппарат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nsubj	_	_
+22	у	у	ADP	_	_	23	case	_	_
+23	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	24	obl	_	_
+24	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+25	только	только	PART	_	_	26	advmod	_	_
+26	цифровая	цифровой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	камера	камера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	41	nsubj	_	_
+28	/	/	PUNCT	_	_	41	punct	_	_
+29	вот	вот	PART	_	_	41	advmod	_	_
+30	но	но	CCONJ	_	_	41	cc	_	_
+31	/	/	PUNCT	_	_	32	punct	_	_
+32	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	41	obl	_	_
+33	не	не	PART	_	Polarity=Neg	32	fixed	_	_
+34	менее	менее	ADV	_	Degree=Cmp	32	fixed	_	_
+35	хм	хм	INTJ	_		32	amod	_	_
+36	/	/	PUNCT	_	_	32	punct	_	_
+37	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	41	iobj	_	_
+38	всё	все	PART	_	_	39	advmod	_	_
+39	ещё	еще	ADV	_	Degree=Pos	41	advmod	_	_
+40	почему-то	почему-то	ADV	_	Degree=Pos	41	advmod	_	_
+41	нравятся	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	24	parataxis	_	_
+42	некоторые	некоторый	DET	_	Case=Acc|Number=Plur	44	det	_	_
+43	свои	свой	DET	_	Case=Acc|Number=Plur	44	det	_	_
+44	снимки	снимок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	41	obj	_	_
+45	/	/	PUNCT	_	_	51	punct	_	_
+46	не	не	PART	_	_	51	advmod	_	_
+47	потому	потому	ADV	_	Degree=Pos	51	mark	_	_
+48	что	что	SCONJ	_	_	47	fixed	_	_
+49	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	51	nsubj:pass	_	_
+50	хорошо	хорошо	ADV	_	Degree=Pos	51	advmod	_	_
+51	сделаны	сделать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	41	parataxis	_	_
+52	/	/	PUNCT	_	_	57	punct	_	_
+53	не	не	PART	_	_	57	advmod	_	_
+54	потому	потому	ADV	_	Degree=Pos	57	mark	_	_
+55	что	что	SCONJ	_	_	54	fixed	_	_
+56	у	у	ADP	_	_	57	case	_	_
+57	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	51	obl	_	_
+58	хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	59	amod	_	_
+59	композиция	композиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	57	nsubj	_	_
+60	/	/	PUNCT	_	_	61	punct	_	_
+61	эээм	эээм	INTJ	_		59	appos	_	_
+62	/	/	PUNCT	_	_	65	punct	_	_
+63	или	или	CCONJ	_	_	65	cc	_	_
+64	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	65	nsubj	_	_
+65	поймала	поймать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	61	conj	_	_
+66	хорошие	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	67	amod	_	_
+67	цвета	цвет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	65	obj	_	_
+68	/	/	PUNCT	_	_	75	punct	_	_
+69	но	но	CCONJ	_	_	75	cc	_	_
+70	/	/	PUNCT	_	_	75	punct	_	_
+71	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	75	nsubj	_	_
+72	/	/	PUNCT	_	_	71	punct	_	_
+73	мммм	мммм	INTJ	_		75	obj	_	_
+74	/	/	PUNCT	_	_	73	punct	_	_
+75	соотносятся	соотноситься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	61	conj	_	_
+76	с	с	ADP	_	_	78	case	_	_
+77	моими	мой	DET	_	Case=Ins|Number=Plur	78	det	_	_
+78	эмоциями	эмоция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	75	obl	_	_
+79	[	[	PUNCT	_	_	80	punct	_	SpaceAfter=No
+80	улыбается	улыбаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	75	conj	_	SpaceAfter=No
+81	]	]	PUNCT	_	_	83	punct	_	_
+82	/	/	PUNCT	_	_	83	punct	_	_
+83	мм	мм	INTJ	_		80	obl	_	_
+84	и	и	CCONJ	_	_	86	cc	_	_
+85	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	86	nsubj	_	_
+86	увеличивает	увеличивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	83	conj	_	_
+87	их	их	DET	_	_	88	det	_	_
+88	ценность	ценность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	86	obj	_	_
+89	в	в	ADP	_	_	91	case	_	_
+90	моих	мой	DET	_	Case=Loc|Number=Plur	91	det	_	_
+91	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	88	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 4
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text = эмм / вот и ещё тогда моя мама подстриглась и я сделала несколько фотографий / того как она идёт / и / м / несколько разворачивает голову / и у неё были волосы тогда ещё короче моих / вот / и здесь у неё были довольно длинные серёжки / и это было очень красиво сзади / вот / когда её волосы развевались / и вот так отклонялись / и тут шея / линия / и / серёжка
+1	эмм	эмм	INTJ	_		0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	вот	вот	PART	_	_	4	advmod	_	_
+4	и	и	PART	_	_	9	advmod	_	_
+5	ещё	еще	ADV	_	Degree=Pos	6	advmod	_	_
+6	тогда	тогда	ADV	_	Degree=Pos	9	advmod	_	_
+7	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	8	det	_	_
+8	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+9	подстриглась	подстричься	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	12	nsubj	_	_
+12	сделала	сделать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+13	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	14	nummod:gov	_	_
+14	фотографий	фотография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	как	как	SCONJ	_	_	19	mark	_	_
+18	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	_
+19	идёт	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	_
+20	/	/	PUNCT	_	_	23	punct	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	/	/	PUNCT	_	_	23	punct	_	_
+23	м	м	INTJ	_		16	conj	_	_
+24	/	/	PUNCT	_	_	26	punct	_	_
+25	несколько	несколько	ADV	_	Degree=Pos	26	advmod	_	_
+26	разворачивает	разворачивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	nmod	_	_
+27	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+28	/	/	PUNCT	_	_	36	punct	_	_
+29	и	и	CCONJ	_	_	36	cc	_	_
+30	у	у	ADP	_	_	31	case	_	_
+31	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	36	obl	_	_
+32	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	36	cop	_	_
+33	волосы	волос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	36	nsubj	_	_
+34	тогда	тогда	ADV	_	Degree=Pos	36	advmod	_	_
+35	ещё	еще	ADV	_	Degree=Pos	36	advmod	_	_
+36	короче	короткий	ADJ	_	Degree=Cmp	26	conj	_	_
+37	моих	мой	DET	_	Case=Acc|Number=Plur	36	det	_	_
+38	/	/	PUNCT	_	_	39	punct	_	_
+39	вот	вот	PART	_	_	36	parataxis	_	_
+40	/	/	PUNCT	_	_	48	punct	_	_
+41	и	и	PART	_	_	48	advmod	_	_
+42	здесь	здесь	ADV	_	Degree=Pos	48	advmod	_	_
+43	у	у	ADP	_	_	44	case	_	_
+44	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	48	nmod	_	_
+45	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	48	cop	_	_
+46	довольно	довольно	ADV	_	Degree=Pos	47	obl	_	_
+47	длинные	длинный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	48	amod	_	_
+48	серёжки	серёжка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	39	nsubj	_	_
+49	/	/	PUNCT	_	_	55	punct	_	_
+50	и	и	CCONJ	_	_	55	cc	_	_
+51	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
+52	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	55	cop	_	_
+53	очень	очень	ADV	_	Degree=Pos	54	advmod	_	_
+54	красиво	красиво	ADV	_	Degree=Pos	55	advmod	_	_
+55	сзади	сзади	ADV	_	Degree=Pos	48	conj	_	_
+56	/	/	PUNCT	_	_	57	punct	_	_
+57	вот	вот	PART	_	_	55	advmod	_	_
+58	/	/	PUNCT	_	_	62	punct	_	_
+59	когда	когда	SCONJ	_	_	62	mark	_	_
+60	её	она	DET	_	_	61	det	_	_
+61	волосы	волос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	62	nsubj	_	_
+62	развевались	развеваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	57	advcl	_	_
+63	/	/	PUNCT	_	_	67	punct	_	_
+64	и	и	CCONJ	_	_	67	cc	_	_
+65	вот	вот	PART	_	_	66	advmod	_	_
+66	так	так	ADV	_	Degree=Pos	67	advmod	_	_
+67	отклонялись	отклоняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	62	conj	_	_
+68	/	/	PUNCT	_	_	70	punct	_	_
+69	и	и	CCONJ	_	_	70	cc	_	_
+70	тут	тут	ADV	_	Degree=Pos	67	conj	_	_
+71	шея	шея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	70	nsubj	_	_
+72	/	/	PUNCT	_	_	71	punct	_	_
+73	линия	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	71	nmod	_	_
+74	/	/	PUNCT	_	_	77	punct	_	_
+75	и	и	CCONJ	_	_	77	cc	_	_
+76	/	/	PUNCT	_	_	77	punct	_	_
+77	серёжка	серёжка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	73	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = эммм / вот и солнце тогда тоже очень красиво падало
+1	эммм	эммм	INTJ	_		10	nsubj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	вот	вот	PART	_	_	4	advmod	_	_
+4	и	и	PART	_	_	5	advmod	_	_
+5	солнце	солнце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+6	тогда	тогда	ADV	_	Degree=Pos	10	advmod	_	_
+7	тоже	тоже	PART	_	_	6	advmod	_	_
+8	очень	очень	ADV	_	Degree=Pos	9	advmod	_	_
+9	красиво	красиво	ADV	_	Degree=Pos	10	advmod	_	_
+10	падало	падать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 8
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 9
+# text = вот / эти фотографии наверно я люблю / больше всего / и кроме того / тогда / ммм
+1	вот	вот	PART	_	_	7	advmod	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	эти	этот	DET	_	Case=Nom|Number=Plur	4	det	_	_
+4	фотографии	фотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+5	наверно	наверно	ADV	_	Degree=Pos	7	advmod	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+7	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	/	/	PUNCT	_	_	7	punct	_	_
+9	больше	много	NUM	_	_	10	nummod:gov	_	_
+10	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+11	/	/	PUNCT	_	_	14	punct	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	кроме	кроме	ADP	_	_	14	case	_	_
+14	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	parataxis	_	_
+15	/	/	PUNCT	_	_	18	punct	_	_
+16	тогда	тогда	ADV	_	Degree=Pos	18	advmod	_	_
+17	/	/	PUNCT	_	_	18	punct	_	_
+18	ммм	мм	INTJ	_		14	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 10
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 11
+# text = я довольно много рисовала / делала зарисовок
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	довольно	довольно	ADV	_	Degree=Pos	3	advmod	_	_
+3	много	много	ADV	_	Degree=Pos	4	advmod	_	_
+4	рисовала	рисовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	/	/	PUNCT	_	_	6	punct	_	_
+6	делала	делать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+7	зарисовок	зарисовка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 12
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = к тому моменту я уже закончила художественную школу поэтому это не было / ммм / заданием на лето / вот / мне просто хотелось
+1	к	к	ADP	_	_	3	case	_	_
+2	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing	3	det	_	_
+3	моменту	момент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	_
+6	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	художественную	художественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	поэтому	поэтому	ADV	_	Degree=Pos	12	advmod	_	_
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	ммм	мм	INTJ	_		12	obl	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	заданием	задание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	obl	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	лето	лето	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	nmod	_	_
+19	/	/	PUNCT	_	_	18	punct	_	_
+20	вот	вот	PART	_	_	24	advmod	_	_
+21	/	/	PUNCT	_	_	20	punct	_	_
+22	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	24	iobj	_	_
+23	просто	просто	PART	_	_	24	advmod	_	_
+24	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	parataxis	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = я рисовала яблоки / и море / и деревья / всё что угодно [смеётся] и иногда людей на пляже / вообще людей на пла...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	рисовала	рисовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	яблоки	яблоко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	/	/	PUNCT	_	_	6	punct	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	море	море	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
+7	/	/	PUNCT	_	_	9	punct	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	деревья	дерево	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	всё	весь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	parataxis	_	_
+12	что	что	PRON	_	Case=Nom	11	fixed	_	_
+13	угодно	угодно	ADV	_	Degree=Pos	11	fixed	_	_
+14	[	[	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	conj	_	SpaceAfter=No
+16	]	]	PUNCT	_	_	15	punct	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	иногда	иногда	ADV	_	Degree=Pos	19	obl	_	_
+19	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	conj	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	пляже	пляж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
+22	/	/	PUNCT	_	_	24	punct	_	_
+23	вообще	вообще	ADV	_	Degree=Pos	24	obl	_	_
+24	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	21	nmod	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	пла.	пляж	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	26	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 16
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = на пляже довольно забавно рисовать
+1	на	на	ADP	_	_	2	case	_	_
+2	пляже	пляж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+3	довольно	довольно	ADV	_	Degree=Pos	4	advmod	_	_
+4	забавно	забавно	ADV	_	Degree=Pos	5	advmod	_	_
+5	рисовать	рисовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 18
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = вот / столько сразу поз / особенно углём / или сангиной
+1	вот	вот	PART	_	_	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	столько	столько	ADV	_	Degree=Pos	5	mark	_	_
+4	сразу	сразу	ADV	_	Degree=Pos	5	advmod	_	_
+5	поз	поза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nsubj	_	_
+6	/	/	PUNCT	_	_	8	punct	_	_
+7	особенно	особенно	ADV	_	Degree=Pos	8	obl	_	_
+8	углём	уголь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	parataxis	_	_
+9	/	/	PUNCT	_	_	11	punct	_	_
+10	или	или	CCONJ	_	_	11	cc	_	_
+11	сангиной	сангина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 20
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 21
+# text = вот / что-то такое я помню про эту поездку / море да море / тоже / море это хорошо
+1	вот	вот	PART	_	_	6	advmod	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	что-то	что-то	PRON	_	Case=Acc	6	obj	_	_
+4	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	про	про	ADP	_	_	9	case	_	_
+8	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
+9	поездку	поездка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	море	море	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	_
+12	да	да	CCONJ	_	_	13	cc	_	_
+13	море	море	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	conj	_	_
+14	/	/	PUNCT	_	_	17	punct	_	_
+15	тоже	тоже	PART	_	_	17	advmod	_	_
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	море	море	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	conj	_	_
+18	это	это	PRON	_	Animacy=Inan|!Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+19	хорошо	хорошо	ADV	_	Degree=Pos	6	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 22
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = вот однако же я боюсь медуз [смеётся] / поэтому море это не всегда мой вариант / они есть сильно страшные / возможно это тоже результат детской перцепции губки боба / где они были представлены как / крайне ядовитые и / хах / чуть не хтонические создания / хм / вот / но только наоборот / ммм
+1	вот	вот	PART	_	_	2	advmod	_	_
+2	однако	однако	ADV	_	Degree=Pos	5	advmod	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	медуз	медуза	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	5	obj	_	_
+7	[	[	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	SpaceAfter=No
+9	]	]	PUNCT	_	_	8	punct	_	_
+10	/	/	PUNCT	_	_	12	punct	_	_
+11	поэтому	поэтому	ADV	_	Degree=Pos	12	advmod	_	_
+12	море	море	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+13	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	12	det	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	всегда	всегда	ADV	_	Degree=Pos	12	advmod	_	_
+16	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	17	det	_	_
+17	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+18	/	/	PUNCT	_	_	20	punct	_	_
+19	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	20	nsubj	_	_
+20	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	_
+21	сильно	сильно	ADV	_	Degree=Pos	22	obl	_	_
+22	страшные	страшный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	amod	_	_
+23	/	/	PUNCT	_	_	27	punct	_	_
+24	возможно	возможный	ADV	_	Degree=Pos	27	parataxis	_	_
+25	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+26	тоже	тоже	PART	_	_	27	advmod	_	_
+27	результат	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	parataxis	_	_
+28	детской	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	перцепции	перцепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+30	губки	губка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+31	боба	боб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	/	/	PUNCT	_	_	36	punct	_	_
+33	где	где	ADV	_	Degree=Pos	36	advmod	_	_
+34	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	36	nsubj:pass	_	_
+35	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	36	aux:pass	_	_
+36	представлены	представить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	31	acl:relcl	_	_
+37	как	как	ADV	_	Degree=Pos	40	obl	_	_
+38	/	/	PUNCT	_	_	40	punct	_	_
+39	крайне	крайне	ADV	_	Degree=Pos	40	obl	_	_
+40	ядовитые	ядовитый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	obl	_	_
+41	и	и	CCONJ	_	_	48	cc	_	_
+42	/	/	PUNCT	_	_	41	punct	_	_
+43	хах	ха	INTJ	_		48	nmod	_	_
+44	/	/	PUNCT	_	_	48	punct	_	_
+45	чуть	чуть	ADV	_	Degree=Pos	46	advmod	_	_
+46	не	не	PART	_	_	48	advmod	_	_
+47	хтонические	хтонический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	48	amod	_	_
+48	создания	создание	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	40	conj	_	_
+49	/	/	PUNCT	_	_	50	punct	_	_
+50	хм	х	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	48	amod	_	_
+51	/	/	PUNCT	_	_	52	punct	_	_
+52	вот	вот	PART	_	_	50	parataxis	_	_
+53	/	/	PUNCT	_	_	58	punct	_	_
+54	но	но	CCONJ	_	_	58	cc	_	_
+55	только	только	PART	_	_	56	advmod	_	_
+56	наоборот	наоборот	ADV	_	Degree=Pos	58	parataxis	_	_
+57	/	/	PUNCT	_	_	58	punct	_	_
+58	ммм	мм	INTJ _		52	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 24
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = вот в моём представлении да / вс...
+1	вот	вот	PART	_	_	4	advmod	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	моём	мой	DET	_	Case=Loc|Gender=Neut|Number=Sing	4	det	_	_
+4	представлении	представление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+5	да	да	PART	_	_	7	advmod	_	_
+6	/	/	PUNCT	_	_	5	punct	_	_
+7	вс.	c	ADP	_		4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 26
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = с помощью них ещё можно получить некое подобие розового мёда / хм / вот / это довольно забавно / что живёт в нас / ммм / из детства
+1	с	с	ADP	_	_	3	case	_	_
+2	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	fixed	_	_
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	5	obl	_	_
+4	ещё	еще	ADV	_	Degree=Pos	5	advmod	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	некое	некий	DET	_	Case=Acc|Gender=Neut|Number=Sing	8	det	_	_
+8	подобие	подобие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+9	розового	розовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	мёда	мёд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	/	/	PUNCT	_	_	12	punct	_	_
+12	хм	хм	INTJ	_		10	amod	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	вот	вот	PART	_	_	12	advmod	_	_
+15	/	/	PUNCT	_	_	18	punct	_	_
+16	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+17	довольно	довольно	ADV	_	Degree=Pos	18	obl	_	_
+18	забавно	забавный	!ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	conj	_	_
+19	/	/	PUNCT	_	_	21	punct	_	_
+20	что	что	PRON	_	Case=Nom	21	nsubj	_	_
+21	живёт	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	21	obl	_	_
+24	/	/	PUNCT	_	_	21	punct	_	_
+25	ммм	мм	INTJ	_		21	nsubj	_	_
+26	/	/	PUNCT	_	_	28	punct	_	_
+27	из	из	ADP	_	_	28	case	_	_
+28	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = @gva@
+1	@gva@	@gva@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = а сейчас ты увлкекаешься фотогрфией рисованием / чтением книг / м эээ / какие-нибудь такие любимые книги или любимые занятия в свободное время ?
+1	а	а	CCONJ	_	_	4	cc	_	_
+2	сейчас	сейчас	ADV	_	Degree=Pos	4	advmod	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+4	увлкекаешься	увлкекаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	фотогрфией	фотография	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+6	рисованием	рисование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	_
+7	/	/	PUNCT	_	_	8	punct	_	_
+8	чтением	чтение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	_
+9	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	м	м	INTJ	_		9	nmod	_	_
+12	эээ	эээ	INTJ	_		11	flat:foreign	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	какие-нибудь	какой-нибудь	DET	_	Case=Acc|Number=Plur	17	det	_	_
+15	такие	такой	DET	_	Case=Acc|Number=Plur	17	det	_	_
+16	любимые	любимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	книги	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	nmod	_	_
+18	или	или	CCONJ	_	_	20	cc	_	_
+19	любимые	любимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	занятия	занятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	conj	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	свободное	свободный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+24	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = эммм / да я рисую иногда / мммм / иногда на парах я рисую / ммм
+1	эммм	эммм	INTJ	_		0	root	_	_
+2	/	/	PUNCT	_	_	4	punct	_	_
+3	да	да	CCONJ	_	_	4	cc	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1	conj	_	_
+5	рисую	рисовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	amod	_	_
+6	иногда	иногда	ADV	_	Degree=Pos	4	advmod	_	_
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	мммм	мммм	INTJ	_		6	conj	_	_
+9	/	/	PUNCT	_	_	8	punct	_	_
+10	иногда	иногда	ADV	_	Degree=Pos	8	advmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	парах	пара	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	nmod	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	obj	_	_
+14	рисую	рисовать	ADJ	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	amod	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	ммм	мм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 33
+# text = то что меня привлекает / то что мне кажется несколько загадочным с точки зрения формы
+1	то	то	SCONJ	_	_	9	mark	_	_
+2	что	что	PRON	_	Case=Nom	4	nsubj	_	_
+3	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	4	obj	_	_
+4	привлекает	привлекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+5	/	/	PUNCT	_	_	4	punct	_	_
+6	то	то	SCONJ	_	_	9	mark	_	_
+7	что	что	PRON	_	Case=Nom	9	nsubj	_	_
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	9	iobj	_	_
+9	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	несколько	несколько	ADV	_	Degree=Pos	11	obl	_	_
+11	загадочным	загадочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+14	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	compound	_	_
+15	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = ну то есть я смотрю и меня поражает / ммм / как расположилась линия / ну / м / ммм / как именно она выгнуто-вогнута / вот / м / ну мне кажется что её будет довольно сложно изобразить и тогда я ставлю себе задачу / определённым образом / ммм / вот / да / иногда / цвета / очень / хорошо пятнами расположены я пытыюсь с этим что-то сделать и / передать это на листе / вот / ну / это / далеко не профессиональное / ну / просто как / баловство
+1	ну	ну	PART	_	_	5	parataxis	_	_
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	mark	_	_
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	fixed	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	смотрю	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	и	и	PART	_	_	7	advmod	_	_
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	5	obj	_	_
+8	поражает	поражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	/	/	PUNCT	_	_	8	punct	_	_
+10	ммм	мм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+11	/	/	PUNCT	_	_	13	punct	_	_
+12	как	как	SCONJ	_	_	13	mark	_	_
+13	расположилась	расположить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl	_	_
+14	линия	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+15	/	/	PUNCT	_	_	18	punct	_	_
+16	ну	ну	PART	_	_	18	parataxis	_	_
+17	/	/	PUNCT	_	_	16	punct	_	_
+18	м	м	INTJ	_		14	nmod	_	_
+19	/	/	PUNCT	_	_	20	punct	_	_
+20	ммм	мм	INTJ	_	 14	nmod	_	_
+21	/	/	PUNCT	_	_	24	punct	_	_
+22	как	как	SCONJ	_	_	24	mark	_	_
+23	именно	именно	PART	_	_	24	advmod	_	_
+24	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	obl	_	_
+25	выгнуто	выгнуть	ADJ	_	Degree=Pos	27	compound	_	SpaceAfter=No
+26	-	-	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	вогнута	вогнута	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	parataxis	_	_
+28	/	/	PUNCT	_	_	27	punct	_	_
+29	вот	вот	PART	_	_	27	conj	_	_
+30	/	/	PUNCT	_	_	29	punct	_	_
+31	м	м	INTJ	_		35	obl	_	_
+32	/	/	PUNCT	_	_	35	punct	_	_
+33	ну	ну	PART	_	_	35	parataxis	_	_
+34	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	35	iobj	_	_
+35	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	29	parataxis	_	_
+36	что	что	SCONJ	_	_	38	mark	_	_
+37	её	она	PRON	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	38	nsubj	_	_
+38	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	advcl	_	_
+39	довольно	довольно	ADV	_	Degree=Pos	40	advmod	_	_
+40	сложно	сложный	ADV	_	Degree=Pos	41	advmod	_	_
+41	изобразить	изобразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	45	xcomp	_	_
+42	и	и	PART	_	_	43	advmod	_	_
+43	тогда	тогда	ADV	_	Degree=Pos	41	advmod	_	_
+44	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	45	nsubj	_	_
+45	ставлю	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	35	advmod	_	_
+46	себе	себя	PRON	_	Case=Dat	45	iobj	_	_
+47	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	45	obj	_	_
+48	/	/	PUNCT	_	_	50	punct	_	_
+49	определённым	определённый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	_
+50	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	47	nmod	_	_
+51	/	/	PUNCT	_	_	50	punct	_	_
+52	ммм	ммм	INTJ	_		50	nmod	_	_
+53	/	/	PUNCT	_	_	52	punct	_	_
+54	вот	вот	PART	_	_	52	parataxis	_	_
+55	/	/	PUNCT	_	_	54	punct	_	_
+56	да	да	PART	_	_	54	parataxis	_	_
+57	/	/	PUNCT	_	_	56	punct	_	_
+58	иногда	иногда	ADV	_	Degree=Pos	56	advmod	_	_
+59	/	/	PUNCT	_	_	56	punct	_	_
+60	цвета	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	56	conj	_	_
+61	/	/	PUNCT	_	_	68	punct	_	_
+62	очень	очень	ADV	_	Degree=Pos	68	advmod	_	_
+63	/	/	PUNCT	_	_	68	punct	_	_
+64	хорошо	хорошо	ADV	_	Degree=Pos	68	advmod	_	_
+65	пятнами	пятно	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	66	obl	_	_
+66	расположены	расположить	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	68	obl	_	_
+67	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	68	nsubj	_	_
+68	пытыюсь	пытыться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	60	acl	_	_
+69	с	с	ADP	_	_	70	case	_	_
+70	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	68	obl	_	_
+71	что-то	что-то	PRON	_	Case=Acc	72	obj	_	_
+72	сделать	cделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	68	xcomp	_	_
+73	и	и	CCONJ	_	_	75	cc	_	_
+74	/	/	PUNCT	_	_	75	punct	_	_
+75	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	68	conj	_	_
+76	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	75	obj	_	_
+77	на	на	ADP	_	_	78	case	_	_
+78	листе	лист	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	75	obl	_	_
+79	/	/	PUNCT	_	_	75	punct	_	_
+80	вот	вот	PART	_	_	95	advmod	_	_
+81	/	/	PUNCT	_	_	80	punct	_	_
+82	ну	ну	PART	_	_	95	parataxis	_	_
+83	/	/	PUNCT	_	_	82	punct	_	_
+84	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	95	nsubj	_	_
+85	/	/	PUNCT	_	_	84	punct	_	_
+86	далеко	далеко	ADV	_	Degree=Pos	87	advmod	_	_
+87	не	не	PART	_	_	88	advmod	_	_
+88	профессиональное	профессиональный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	95	amod	_	_
+89	/	/	PUNCT	_	_	88	punct	_	_
+90	ну	ну	PART	_	_	95	parataxis	_	_
+91	/	/	PUNCT	_	_	90	punct	_	_
+92	просто	просто	PART	_	_	95	advmod	_	_
+93	как	как	SCONJ	_	_	95	mark	_	_
+94	/	/	PUNCT	_	_	95	punct	_	_
+95	баловство	баловство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	75	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = вот / но / тем не менее / это / хм / доставляет мне радость / я думаю это хорошо
+1	вот	вот	PART	_	_	13	advmod	_	_
+2	/	/	PUNCT	_	_	13	punct	_	_
+3	но	но	CCONJ	_	_	13	cc	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+6	не	не	PART	_	Polarity=Neg	5	fixed	_	_
+7	менее	менее	ADV	_	Degree=Cmp	5	fixed	_	_
+8	/	/	PUNCT	_	_	5	punct	_	_
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+10	/	/	PUNCT	_	_	13	punct	_	_
+11	хм	хм	INTJ	_		13	obl	_	_
+12	/	/	PUNCT	_	_	13	punct	_	_
+13	доставляет	доставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	13	iobj	_	_
+15	радость	радость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+16	/	/	PUNCT	_	_	18	punct	_	_
+17	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	18	nsubj	_	_
+18	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	_
+19	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+20	хорошо	хорошо	ADV	_	Degree=Pos	13	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 39
+# text = эээ / фотографию / нет я почти не фотографирую ну то есть иногда я фотографирую на телефон опять же / когда / м
+1	эээ	эээ	INTJ	_		0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	фотографию	фотография	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	нет	нет	!PART	_		3	appos	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+7	почти	почти	ADV	_	Degree=Pos	8	advmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	фотографирую	фотографировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	ну	ну	PART	_	_	15	discourse	_	_
+11	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	mark	_	_
+12	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	fixed	_	_
+13	иногда	иногда	ADV	_	Degree=Pos	15	advmod	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	15	nsubj	_	_
+15	фотографирую	фотографировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+18	опять	опять	ADV	_	Degree=Pos	17	advmod	_	_
+19	же	же	PART	_	_	18	advmod	_	_
+20	/	/	PUNCT	_	_	23	punct	_	_
+21	когда	когда	SCONJ	_	_	23	mark	_	_
+22	/	/	PUNCT	_	_	23	punct	_	_
+23	м	м	INTJ	_		18	advcl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = я...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = я вижу насколько к-омпозиция будет хороша / вот / но в том числе это скорей используется для / создания зарисовок
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	насколько	насколько	ADV	_	Degree=Pos	5	obl	_	_
+!4	к	к	ADP	_	_	5	case	_	SpaceAfter=No
+!5	-омпозиция	-омпозиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	хороша	хороший	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	obl	_	_
+8	/	/	PUNCT	_	_	9	punct	_	_
+9	вот	вот	PART	_	_	7	advmod	_	_
+10	/	/	PUNCT	_	_	17	punct	_	_
+11	но	но	CCONJ	_	_	17	cc	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	14	det	_	_
+14	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+15	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj:pass	_	_
+16	скорей	скорее	ADV	_	Degree=Cmp2	17	advmod	_	_
+17	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+18	для	для	ADP	_	_	20	case	_	_
+19	/	/	PUNCT	_	_	20	punct	_	_
+20	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	_
+21	зарисовок	зарисовка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = эммм / ммм / вот / или для того / что когда надо что-то запомнить и я не могу / прямо сейчас зарисовать / вот / а иногда я / ммм
+1	эммм	зммм  INTJ	_		0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ммм	ммм	INTJ	_		1	parataxis	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	вот	вот	PART	_	_	3	advmod	_	_
+6	/	/	PUNCT	_	_	9	punct	_	_
+7	или	или	CCONJ	_	_	9	cc	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	conj	_	_
+10	/	/	PUNCT	_	_	13	punct	_	_
+11	что	что	SCONJ	_	_	13	mark	_	_
+12	когда	когда	SCONJ	_	_	13	mark	_	_
+13	надо	надо	ADV	_	Degree=Pos	9	acl	_	_
+14	что-то	что-то	PRON	_	Case=Acc	15	obj	_	_
+15	запомнить	запомнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	_
+16	и	и	CCONJ	_	_	19	cc	_	_
+17	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	19	nsubj	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+20	/	/	PUNCT	_	_	23	punct	_	_
+21	прямо	прямо	ADV	_	Degree=Pos	22	advmod	_	_
+22	сейчас	сейчас	ADV	_	Degree=Pos	23	advmod	_	_
+23	зарисовать	зарисовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+24	/	/	PUNCT	_	_	25	punct	_	_
+25	вот	вот	PART	_	_	23	parataxis	_	_
+26	/	/	PUNCT	_	_	29	punct	_	_
+27	а	а	CCONJ	_	_	29	cc	_	_
+28	иногда	иногда	ADV	_	Degree=Pos	29	obl	_	_
+29	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	25	conj	_	_
+30	/	/	PUNCT	_	_	31	punct	_	_
+31	ммм	ммм	INTJ	_		29	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = вижу просто допустим очень красивую женщину / и / ммм / она мне напоминает что-то / ну такое / что-то неуловимое и я её фотографирую чтобы потом не забыть и рассмотреть
+1	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	просто	просто	PART	_	_	3	advmod	_	_
+3	допустим	допустить	!VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+4	очень	очень	ADV	_	Degree=Pos	5	obl	_	_
+5	красивую	красивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	женщину	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+7	/	/	PUNCT	_	_	14	punct	_	_
+8	и	и	CCONJ	_	_	14	cc	_	_
+9	/	/	PUNCT	_	_	10	punct	_	_
+10	ммм	ммм	INTJ	_		14	nsubj	_	_
+11	/	/	PUNCT	_	_	10	punct	_	_
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	_
+13	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	14	iobj	_	_
+14	напоминает	напоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+15	что-то	что-то	PRON	_	Case=Acc	14	obj	_	_
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	ну	ну	PART	_	_	14	parataxis	_	_
+18	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	20	det	_	_
+19	/	/	PUNCT	_	_	17	punct	_	_
+20	что-то	что-то	PRON	_	Case=Nom	14	nsubj	_	_
+21	неуловимое	неуловимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+22	и	и	CCONJ	_	_	25	cc	_	_
+23	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	25	nsubj	_	_
+24	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	25	obl	_	_
+25	фотографирую	фотографировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	_
+26	чтобы	чтобы	SCONJ	_	Mood=Cnd	29	mark	_	_
+27	потом	потом	ADV	_	Degree=Pos	29	advmod	_	_
+28	не	не	PART	_	_	29	advmod	_	_
+29	забыть	забыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	advcl	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	рассмотреть	рассмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = вот / к сожалению это не всегда выходит / ну потому что я же не беру / разрешения / фотографировать людей [смеётся] / вот и это сложно / сделать так чтобы они не заметили [смеётся] / вот / поэтому чаще / фигуру и / или вполоборота / можно поймать / вот и поэтому у меня / эээ / рано или поздно может создаться определённая коллекция / ммм / образов которые меня / восхитили почему-то / ммм / с которыми я / эээ / неожиданно встретилась и они меня опять же потрясли / вот / ну / в некотором смысле это сродни тому как мы ходим / в музей / или на концерт или в театр / ну то есть мы же ходим за тем чтобы встретиться / но не с людьми а / встретиться / с произведением / ну и / мы никогда скажем не ожидаем / м / ммм / что же мы там встретим / ну и всё время мы / идём / такие / м
+1	вот	вот	PART	_	_	8	advmod	_	_
+2	/	/	PUNCT	_	_	8	punct	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	parataxis	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	всегда	всегда	ADV	_	Degree=Pos	8	advmod	_	_
+8	выходит	выйти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	/	/	PUNCT	_	_	8	punct	_	_
+10	ну	ну	PART	_	_	16	parataxis	_	_
+11	потому	потому	ADV	_	Degree=Pos	16	mark	_	_
+12	что	что	SCONJ	_	_	11	fixed	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	16	nsubj	_	_
+14	же	же	PART	_	_	13	advmod	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	беру	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+17	/	/	PUNCT	_	_	18	punct	_	_
+18	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	_
+19	/	/	PUNCT	_	_	20	punct	_	_
+20	фотографировать	фотографировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	obl	_	_
+21	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+22	[	[	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	parataxis	_	SpaceAfter=No
+24	]	]	PUNCT	_	_	23	punct	_	_
+25	/	/	PUNCT	_	_	29	punct	_	_
+26	вот	вот	PART	_	_	25	advmod	_	_
+27	и	и	PART	_	_	29	cc	_	_
+28	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+29	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	23	conj	_	_
+30	/	/	PUNCT	_	_	31	punct	_	_
+31	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	csubj	_	_
+32	так	так	ADV	_	Degree=Pos	36	advmod	_	_
+33	чтобы	чтобы	SCONJ	_	Mood=Cnd	36	mark	_	_
+34	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	36	nsubj	_	_
+35	не	не	PART	_	_	36	advmod	_	_
+36	заметили	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	31	advcl	_	_
+37	[	[	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	36	conj	_	SpaceAfter=No
+39	]	]	PUNCT	_	_	38	punct	_	_
+40	/	/	PUNCT	_	_	41	punct	_	_
+41	вот	вот	PART	_	_	38	parataxis	_	_
+42	/	/	PUNCT	_	_	52	punct	_	_
+43	поэтому	поэтому	ADV	_	Degree=Pos	52	advmod	_	_
+44	чаще	часто	ADV	_	Degree=Cmp	52	advmod	_	_
+45	/	/	PUNCT	_	_	46	punct	_	_
+46	фигуру	фигура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	53	obj	_	_
+47	и	и	CCONJ	_	_	50	cc	_	_
+48	/	/	PUNCT	_	_	50	punct	_	_
+49	или	или	CCONJ	_	_	50	cc	_	_
+50	вполоборота	вполоборота	ADV	_		46	conj	_	_
+51	/	/	PUNCT	_	_	46	punct	_	_
+52	можно	можно	ADV	_	Degree=Pos	41	conj	_	_
+53	поймать	поймать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	52	csubj	_	_
+54	/	/	PUNCT	_	_	55	punct	_	_
+55	вот	вот	PART	_	_	53	advmod	_	_
+56	и	и	PART	_	_	66	advmod	_	_
+57	поэтому	поэтому	ADV	_	Degree=Pos	66	advmod	_	_
+58	у	у	ADP	_	_	59	case	_	_
+59	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	66	obl	_	_
+60	/	/	PUNCT	_	_	61	punct	_	_
+61	эээ	эээ	INTJ	_	_	66	nsubj	_	_
+62	/	/	PUNCT	_	_	61	punct	_	_
+63	рано	рано	ADV	_	Degree=Pos	66	advmod	_	_
+64	или	или	CCONJ	_	_	65	cc	_	_
+65	поздно	поздно	ADV	_	Degree=Pos	63	conj	_	_
+66	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	conj	_	_
+67	создаться	создаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	66	xcomp	_	_
+68	определённая	определённый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+69	коллекция	коллекция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	66	nsubj	_	_
+70	/	/	PUNCT	_	_	71	punct	_	_
+71	ммм	ммм	INTJ	_		69	nmod	_	_
+72	/	/	PUNCT	_	_	73	punct	_	_
+73	образов	образ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	71	nmod	_	_
+74	которые	который	PRON	_	Case=Acc	77	obj	_	_
+75	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	77	obj	_	_
+76	/	/	PUNCT	_	_	75	punct	_	_
+77	восхитили	восхитить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	71	parataxis	_	_
+78	почему-то	почему-то	ADV	_	Degree=Pos	77	advmod	_	_
+79	/	/	PUNCT	_	_	78	punct	_	_
+80	ммм	мм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	78	obj	_	_
+81	/	/	PUNCT	_	_	83	punct	_	_
+82	с	с	ADP	_	_	83	case	_	_
+83	которыми	который	PRON	_	Case=Ins	80	nmod	_	_
+84	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	83	nsubj	_	_
+85	/	/	PUNCT	_	_	84	punct	_	_
+86	эээ	эээ	INTJ	_	_	84	parataxis	_	_
+87	/	/	PUNCT	_	_	86	punct	_	_
+88	неожиданно	неожиданно	ADV	_	Degree=Pos	89	advmod	_	_
+89	встретилась	встретиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	86	conj	_	_
+90	и	и	CCONJ	_	_	95	cc	_	_
+91	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	95	nsubj	_	_
+92	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	95	obj	_	_
+93	опять	опять	ADV	_	Degree=Pos	95	advmod	_	_
+94	же	же	PART	_	_	93	advmod	_	_
+95	потрясли	потрясти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	86	conj	_	_
+96	/	/	PUNCT	_	_	126	punct	_	_
+97	вот	вот	PART	_	_	126	advmod	_	_
+98	/	/	PUNCT	_	_	97	punct	_	_
+99	ну	ну	PART	_	_	126	parataxis	_	_
+100	/	/	PUNCT	_	_	99	punct	_	_
+101	в	в	ADP	_	_	103	case	_	_
+102	некотором	некоторый	DET	_	Case=Loc|Gender=Masc|Number=Sing	103	det	_	_
+103	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	126	obl	_	_
+104	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	126	nsubj	_	_
+105	сродни	сродень	ADV	_	Degree=Pos	126	advmod	_	_
+106	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	126	iobj	_	_
+107	как	как	SCONJ	_	_	109	mark	_	_
+108	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	109	nsubj	_	_
+109	ходим	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	126	advcl	_	_
+110	/	/	PUNCT	_	_	109	punct	_	_
+111	в	в	ADP	_	_	112	case	_	_
+112	музей	музей	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	126	obl	_	_
+113	/	/	PUNCT	_	_	116	punct	_	_
+114	или	или	CCONJ	_	_	116	cc	_	_
+115	на	на	ADP	_	_	116	case	_	_
+116	концерт	концерт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	112	conj	_	_
+117	или	или	CCONJ	_	_	119	cc	_	_
+118	в	в	ADP	_	_	119	case	_	_
+119	театр	театр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	112	conj	_	_
+120	/	/	PUNCT	_	_	126	punct	_	_
+121	ну	ну	PART	_	_	126	parataxis	_	_
+122	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	126	mark	_	_
+123	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	122	fixed	_	_
+124	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	126	nsubj	_	_
+125	же	же	PART	_	_	124	advmod	_	_
+126	ходим	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	95	parataxis	_	_
+127	за	за	ADP	_	_	128	case	_	_
+128	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	126	obl	_	_
+129	чтобы	чтобы	SCONJ	_	Mood=Cnd	130	mark	_	_
+130	встретиться	встретиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	126	xcomp	_	_
+131	/	/	PUNCT	_	_	135	punct	_	_
+132	но	но	CCONJ	_	_	135	cc	_	_
+133	не	не	PART	_	_	135	advmod	_	_
+134	с	с	ADP	_	_	135	case	_	_
+135	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	126	obl	_	_
+136	а	а	CCONJ	_	_	138	cc	_	_
+137	/	/	PUNCT	_	_	138	punct	_	_
+138	встретиться	встретиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	135	conj	_	_
+139	/	/	PUNCT	_	_	141	punct	_	_
+140	с	с	ADP	_	_	141	case	_	_
+141	произведением	произведение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	138	obl	_	_
+142	/	/	PUNCT	_	_	150	punct	_	_
+143	ну	ну	PART	_	_	150	parataxis	_	_
+144	и	и	CCONJ	_	_	150	cc	_	_
+145	/	/	PUNCT	_	_	144	punct	_	_
+146	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	148	nsubj	_	_
+147	никогда	никогда	ADV	_	Degree=Pos	148	advmod	_	_
+148	скажем	сказать	!VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	150	parataxis	_	_
+149	не	не	PART	_	_	150	advmod	_	_
+150	ожидаем	ожидать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	141	parataxis	_	_
+151	/	/	PUNCT	_	_	152	punct	_	_
+152	м	м	INTJ	_		150	obj	_	_
+153	/	/	PUNCT	_	_	154	punct	_	_
+154	ммм	ммм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	152	nmod	_	_
+155	/	/	PUNCT	_	_	160	punct	_	_
+156	что	что	PRON	_	Case=Acc	160	obj	_	_
+157	же	же	PART	_	_	156	advmod	_	_
+158	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	160	nsubj	_	_
+159	там	там	ADV	_	Degree=Pos	160	advmod	_	_
+160	встретим	встретить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	150	parataxis	_	_
+161	/	/	PUNCT	_	_	168	punct	_	_
+162	ну	ну	PART	_	_	163	parataxis	_	_
+163	и	и	CCONJ	_	_	168	cc	_	_
+164	всё	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	165	det	_	_
+165	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	168	obl	_	_
+166	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	168	nsubj	_	_
+167	/	/	PUNCT	_	_	166	punct	_	_
+168	идём	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	160	conj	_	_
+169	/	/	PUNCT	_	_	168	punct	_	_
+170	такие	такой	DET	_	Case=Acc|Number=Plur	172	det	_	_
+171	/	/	PUNCT	_	_	172	punct	_	_
+172	м	м	NOUN	_	_	168	obj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = @nae@
+1	@nae@	@nae@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = взволнованные / ожидая встречи / а может быть оно будет / а может быть не будет / может быть меня что-то потрясёт а может быть меня ничего не потрясёт / вот / поэтому / это всегда очень волнующе / но / м / это и делает походы на те же выставки / ммм / интересными
+1	взволнованные	взволнованный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ожидая	ожидать	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	встречи	встреча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+5	/	/	PUNCT	_	_	7	punct	_	_
+6	а	а	CCONJ	_	_	7	cc	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	_
+9	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nsubj	_	_
+10	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
+11	/	/	PUNCT	_	_	22	punct	_	_
+12	а	а	CCONJ	_	_	22	cc	_	_
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	parataxis	_	_
+14	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	не	не	PART	_	_	22	advmod	_	_
+16	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	_
+17	/	/	PUNCT	_	_	18	punct	_	_
+18	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+19	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	22	obl	_	_
+21	что-то	что-то	PRON	_	Case=Acc	22	obj	_	_
+22	потрясёт	потрясти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+23	а	а	CCONJ	_	_	29	cc	_	_
+24	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	parataxis	_	_
+25	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+26	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	29	obj	_	_
+27	ничего	ничто	PRON	_	Case=Gen	29	nsubj	_	_
+28	не	не	PART	_	_	29	advmod	_	_
+29	потрясёт	потрясёть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+30	/	/	PUNCT	_	_	29	punct	_	_
+31	вот	вот	PART	_	_	29	parataxis	_	_
+32	/	/	PUNCT	_	_	31	punct	_	_
+33	поэтому	поэтому	ADV	_	Degree=Pos	38	advmod	_	_
+34	/	/	PUNCT	_	_	38	punct	_	_
+35	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	38	nsubj	_	_
+36	всегда	всегда	ADV	_	Degree=Pos	38	advmod	_	_
+37	очень	очень	ADV	_	Degree=Pos	38	advmod	_	_
+38	волнующе	волнующе	ADV	_	Degree=Cmp	31	conj	_	_
+39	/	/	PUNCT	_	_	42	punct	_	_
+40	но	но	CCONJ	_	_	42	cc	_	_
+41	/	/	PUNCT	_	_	42	punct	_	_
+42	м	м	INTJ	_	_	38	conj	_	_
+43	/	/	PUNCT	_	_	46	punct	_	_
+44	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	nsubj	_	_
+45	и	и	PART	_	_	46	advmod	_	_
+46	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	parataxis	_	_
+47	походы	поход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	46	obj	_	_
+48	на	на	ADP	_	_	51	case	_	_
+49	те	тот	DET	_	Case=Acc|Number=Plur	51	det	_	_
+50	же	же	PART	_	_	49	advmod	_	_
+51	выставки	выставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	46	obl	_	_
+52	/	/	PUNCT	_	_	46	punct	_	_
+53	ммм	ммм	INTJ	_	_	46	obj	_	_
+54	/	/	PUNCT	_	_	46	punct	_	_
+55	интересными	интересный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	46	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = # time_begin = 15:15
+1	#	#	PUNCT	_	_	3	punct	_	_
+2	time_begin	time_begiн-лат	NOUN	_	_	0	root	_	_
+3	=	=	SYM	_	_	2	nmod	_	_
+4	15	15	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	15	15	NUM	_	_	3	nummod	_	SpaceAfter=No
+
